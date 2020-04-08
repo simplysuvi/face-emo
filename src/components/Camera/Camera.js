@@ -76,7 +76,7 @@ const Camera = ({ photoMode }) => {
 
   return (
     <div className="camera">
-    <p>Scroll down for results</p>
+    <p class="scroll_down">Scroll down for results ↓</p>
       <div className="camera__wrapper">
         <Webcam audio={false} ref={camera} width="100%" height="auto" />
         <canvas

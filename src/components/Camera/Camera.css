@@ -6,7 +6,11 @@
   align-items: center;
   position: relative;
 }
-
+p.scroll_down
+{
+	font-size: 20px;
+    color: white;
+}
 .camera__wrapper {
   position: relative;
   width: 80%;
