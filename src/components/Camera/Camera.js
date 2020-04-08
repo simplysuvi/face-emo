@@ -116,7 +116,7 @@ const Camera = ({ photoMode }) => {
           <div className="results__container">
             <Results results={results} />
           </div>
-        </><p>MADE WITH LOVE BY SUVRAT JAIN</p>
+        </>
       )}
     </div>
   );

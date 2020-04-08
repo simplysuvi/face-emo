@@ -19,6 +19,7 @@ function App() {
         <div className="App__header">
           <h1>
             <span>Mood Detector</span>
+            <br><p>MADE WITH LOVE BY SUVRAT JAIN</p>
           </h1>
           <div className="App__switcher">
             <FontAwesomeIcon
