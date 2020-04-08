@@ -89,6 +89,7 @@ const Camera = ({ photoMode }) => {
 
       {photoMode ? (
         <>
+        <p>Scroll down for results</p>
           <div className="camera__button-container">
             {photos.length > 0 && (
               <Button onClick={toggleGallery}>

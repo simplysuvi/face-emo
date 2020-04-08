@@ -18,7 +18,7 @@ function App() {
       <header>
         <div className="App__header">
           <h1>
-            <span>Face Detector</span>
+            <span>Mood Detector</span>
           </h1>
           <div className="App__switcher">
             <FontAwesomeIcon
