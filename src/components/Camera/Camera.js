@@ -119,7 +119,6 @@ const Camera = ({ photoMode }) => {
         </>
       )}
     </div>
-    <footer><p>MADE WITH LOVE BY SUVRAT JAIN</p></footer>
   );
 };
 
