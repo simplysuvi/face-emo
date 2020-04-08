@@ -2,6 +2,7 @@
   "name": "camera-test",
   "version": "0.1.0",
   "private": true,
+    "homepage": "https://myusername.github.io/my-app",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
