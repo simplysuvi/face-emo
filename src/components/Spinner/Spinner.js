@@ -12,7 +12,6 @@ const Spinner = () => {
       }}
     >
       <FontAwesomeIcon icon="spinner" spin size="lg" />
-      <p>MADE WITH LOVE BY SUVRAT JAIN</p>
     </div>
   );
 };
