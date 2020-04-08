@@ -76,6 +76,7 @@ const Camera = ({ photoMode }) => {
 
   return (
     <div className="camera">
+    <p>Scroll down for results</p>
       <div className="camera__wrapper">
         <Webcam audio={false} ref={camera} width="100%" height="auto" />
         <canvas
@@ -89,7 +90,6 @@ const Camera = ({ photoMode }) => {
 
       {photoMode ? (
         <>
-        <p>Scroll down for results</p>
           <div className="camera__button-container">
             {photos.length > 0 && (
               <Button onClick={toggleGallery}>
