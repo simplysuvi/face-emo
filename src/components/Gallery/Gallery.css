@@ -2,14 +2,12 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  background-color: #aaa;
 }
 
 .gallery__container {
   margin-top: 2rem;
   width: 100%;
   min-height: 500px;
-  background-color: #aaa;
 }
 
 .gallery__container h2 {
